@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GitHubDinis
-- 👀 I’m interested in ...
+- 👀 Gaming and Sports
 - 🌱 Computer Engineering at Coimbra Engineering Academy
 - 💞️ 
 - 📫 dinis.7alcao@gmail.com
