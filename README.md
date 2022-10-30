@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GitHubDinis
 - 👀 Gaming and Sports
 - 🌱 Computer Engineering Student at Coimbra Engineering Academy
-- 💞️ 
+- 💞️ "Tell me and I forget. Teach me and I remember. Involve me and I learn."
 - 📫 dinis.7alcao@gmail.com
 
 <!---
