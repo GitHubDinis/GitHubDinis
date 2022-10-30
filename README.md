@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 Computer Engineering at Coimbra Engineering Academy
 - 💞️ 
-- 📫 @dinis.7alcao@gmail.com
+- 📫 dinis.7alcao@gmail.com
 
 <!---
 GitHubDinis/GitHubDinis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
