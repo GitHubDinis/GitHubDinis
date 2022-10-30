@@ -2,7 +2,7 @@
 - 👀 Gaming and Sports
 - 🌱 Computer Engineering Student at Coimbra Engineering Academy
 - 💞️ "Tell me and I forget. Teach me and I remember. Involve me and I learn."
-- 📫 dinis.7alcao@gmail.com
+- 📫 dinis.7alcao@gmail.com or a2020130403@isec.pt
 
 <!---
 GitHubDinis/GitHubDinis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
