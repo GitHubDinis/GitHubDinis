@@ -1,16 +1,6 @@
-<!---
-- 👋 Hi, I’m @GitHubDinis
-- 👀 Gaming and Sports
-- 🌱 Computer Engineering Student at Coimbra Engineering Academy
-- 💞️ "Tell me and I forget. Teach me and I remember. Involve me and I learn."
-- 📫 dinis.7alcao@gmail.com or a2020130403@isec.pt
---->
-
 <br clear="both">
 
-###
-
-  👋 Hi, I’m [@GitHubDinis](https://github.com/GitHubDinis) <img src="https://profile-counter.glitch.me/GitHubDinis/count.svg?" align="right" />
+👋 Hi, I’m [@GitHubDinis](https://github.com/GitHubDinis) <img src="https://profile-counter.glitch.me/GitHubDinis/count.svg?" align="right" />
 
 <details>
   <summary> 👨🏽‍🎓 About Me </summary>
