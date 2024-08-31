@@ -8,13 +8,9 @@
 
 <br clear="both">
 
-<div align="right">
-  <img src="https://profile-counter.glitch.me/GitHubDinis/count.svg?"  />
-</div>
-
 ###
 
-<p align="left">👋 Hi, I’m @GitHubDinis</p>
+<p align="left">👋 Hi, I’m @GitHubDinis <img src="https://profile-counter.glitch.me/GitHubDinis/count.svg?" align="right" /></p>
 
 ###
 
