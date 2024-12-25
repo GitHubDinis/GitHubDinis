@@ -5,7 +5,7 @@
 <details>
   <summary> 👨🏽‍🎓 About Me </summary>
 
-  - 🧑🏽‍💻 I'm Dinis Falcão, a Computer Engineering student at Instituto Superior de Engenharia de Coimbra, dedicated to academic excellence and passionate about technology. Additionally, I maintain a strong interest     in sports and nature, striking a balance between the digital world and the outdoors.
+  - 🧑🏽‍💻 I'm Dinis Falcão, a Computer Engineering graduate at Instituto Superior de Engenharia de Coimbra, dedicated to academic excellence and passionate about technology. Additionally, I maintain a strong interest     in sports and nature, striking a balance between the digital world and the outdoors.
 
   - ⚽️ I'm a passionate Futsal player with over 14 years of experience. Throughout this sporting journey, I've learned the importance of teamwork, discipline, and leadership. Futsal has not only provided me with       moments of fun and competition but also taught me valuable lessons that I apply both on and off the court.
 
