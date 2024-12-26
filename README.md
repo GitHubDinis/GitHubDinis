@@ -67,7 +67,7 @@
   <a href="" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.youtube.com/@dinisfalcao8201" target="_blank">
+  <a href="https://www.youtube.com/@dinisfalcao" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="70" height="40" alt="youtube logo"  />
   </a>
 </div>
