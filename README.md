@@ -5,9 +5,13 @@
 <details>
   <summary> 👨🏽‍🎓 About Me </summary>
 
-  - 🧑🏽‍💻 I'm Dinis Falcão, a Computer Engineering graduate at Instituto Superior de Engenharia de Coimbra, dedicated to academic excellence and passionate about technology. Additionally, I maintain a strong interest     in sports and nature, striking a balance between the digital world and the outdoors.
+  - 🧑🏽‍💻 I'm Dinis Falcão, a Computer Engineering graduate at Instituto Superior de Engenharia de Coimbra, dedicated to academic excellence and passionate about technology. Additionally, I maintain a strong interest in sports and nature, striking a balance between the digital world and the outdoors.
 
   - ⚽️ I'm a passionate Futsal player with over 14 years of experience. Throughout this sporting journey, I've learned the importance of teamwork, discipline, and leadership. Futsal has not only provided me with       moments of fun and competition but also taught me valuable lessons that I apply both on and off the court.
+
+  - 👨🏽‍🎓 In July 2024, I presented my Bachelor's Degree Final Project in Computer Engineering, which was on the topic "Computer Vision for Fault Analysis in Industrial Equipment" and I received a final grade of 19 out of 20.
+
+  - 🎓 Recently, in December 2024, I proudly completed my Bachelor's Degree, and I was recognized with an academic and sports merit scholarship, celebrating my dedication to both academic excellence and athletic performance.
 
 </details>
 
